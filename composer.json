@@ -1,0 +1,19 @@
+{
+    "name": "my/slug",
+    "description": "slug creater",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim Elmogy",
+            "email": "kimo72636@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "my\\slug\\": "src/"
+        }
+    }
+}
