@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "my\\slug\\": "src/"
+            "companyalexon\\slug\\": "src/"
         }
     }
 }

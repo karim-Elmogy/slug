@@ -15,7 +15,7 @@ class SlugServiceProvider extends ServiceProvider{
     }
 
     public function register(){
-        $this->app->singleton('slug', function(){});
+
     }
 
 }
